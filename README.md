@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @vishwa-3g
-- 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning React.JS and DAAPS
-- 💞️ I’m passionate about SCI-FI Movies, Books
+- 👋 Hi, I’m Vishwashree K
+- 👀 I’m interested in Web Technologies, AWS Deployment and Project Management 
+- 🌱 I’m currently learning AWS and am a full-time student at STFX University, Nova Scotia, Canada
+- 💞️ I’m passionate about SCI-FI Movies, Photography, Videography editing and reading Story Books
 - 📫 How to reach me on my Email: vishwakarhadkar@yahoo.in
 
 <!---
